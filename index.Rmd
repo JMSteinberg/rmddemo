@@ -14,7 +14,7 @@ library("knitr")
 source("analysis.R")
 ```
 
-## This is a demo of R Markdown to show what we can do
+## This is a demo of R Markdown to show what we can do 
 
 According to the Hofstede dataset, the country with the highest individualism was `r max_country2`. The country with the highest collectivism was `r min_country2`.
 
